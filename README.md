@@ -1,9 +1,9 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
-### Hi there, I'm Kiril [Zafirov][website] 👋
+### I'm [Kiril Zafirov][website] 👋
  
 ## I'm a Developer at ITLabs!
 - 🔭 I’m currently working with Angular
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
