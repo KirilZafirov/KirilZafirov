@@ -44,9 +44,16 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirilZafirov&layout=compact)](https://github.com/KirilZafirov/github-readme-stats)
+
 ---
 
-<img align="left" alt="Kiril Zafirov Github Stats" src="https://github-readme-stats.vercel.app/api?username=KirilZafirov&show_icons=true&hide_border=true" />
+---
+
+<img align="left" alt="Kiril Zafirov Github Stats" src="https://github-readme-stats.vercel.app/api?username=KirilZafirov&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://zafirov.com
 [twitter]: https://twitter.com/KirilZafirov 
