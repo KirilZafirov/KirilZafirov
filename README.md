@@ -1,13 +1,9 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 ### I'm [Kiril Zafirov][website] 👋
  
-## I'm a Developer at ITLabs!
-- 🔭 I’m currently working with Angular
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
-#### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> 
+## I'm a Software Engineer at ITLabs!
+- 🔭 I’m currently focused on frontend development with Angular and all things javascript related
+- 🌱 I’m currently learning everything    
 ### Connect with me:
 
 [<img align="left" alt="zafirov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
