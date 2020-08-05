@@ -62,8 +62,10 @@ Talk to me about
 --- 
 
 <img align="left" alt="Kiril Zafirov Github Stats" src="https://github-readme-stats.vercel.app/api?username=KirilZafirov&show_icons=true&hide_border=true&count_private=true" />
-![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
 [website]: https://zafirov.com
 [twitter]: https://twitter.com/KirilZafirov 
 [linkedin]: https://linkedin.com/in/kiril-zafirov-95109671
  
+
+ ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
