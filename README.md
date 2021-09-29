@@ -1,7 +1,7 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 ### I'm [Kiril Zafirov][website] 👋
  
-## and i am a Software Engineer at ITLabs!
+## Software Frontend Engineer!
 - 🔭 I’m currently focused on frontend development with Angular and all things javascript related
 - 🌱 I’m currently learning everything    
 ### Connect with me:
