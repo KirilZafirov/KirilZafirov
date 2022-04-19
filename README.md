@@ -2,8 +2,7 @@
 ### I'm [Kiril Zafirov][website] 👋
  
 ## Software Frontend Engineer!
-- 🔭 I’m currently focused on frontend development with Angular and all things javascript related
-- 🌱 I’m currently learning everything    
+- 🔭 I’m currently focused on frontend development with Angular and all things javascript related  
 ### Connect with me:
 
 [<img align="left" alt="zafirov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
