@@ -16,6 +16,7 @@
  | Language     | Proficiency |
  | -----------  | ----------- |
  | C#           | Expert      |
+ | Angular      | Expert      |
  | [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/KirilZafirov/)](https://github.com/KirilZafirov/)           | Expert      |
  <br/>
 
